@@ -2,9 +2,9 @@
 Makes Nicolas Cage the background image on every element
 
 ## 1. Install any user styles extension
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
-- [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)
-- [Edge](https://microsoftedge.microsoft.com/addons/detail/super-styles/lgcjpmgldoadgddlhigdadahfdecchcp)
+- [Stylus for Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
+- [Stylus Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)
+- [Super Styles for Edge](https://microsoftedge.microsoft.com/addons/detail/super-styles/lgcjpmgldoadgddlhigdadahfdecchcp)
 
 ## 2. Copy the contents of [this file](./style.css)
 
