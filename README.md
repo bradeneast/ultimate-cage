@@ -1,4 +1,4 @@
-# ultimate-cage-userstyle-theme
+# Ultimate Cage Theme
 Makes Nicolas Cage the background image on every element
 
 ## 1. Install any user styles extension
