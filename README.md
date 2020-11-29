@@ -1,5 +1,5 @@
 # Ultimate Cage Theme
-Makes Nicolas Cage the background image on every element
+Makes Nicolas Cage the background of random elements.
 
 ## 1. Install any user styles extension
 - [Stylus for Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
