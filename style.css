@@ -1,4 +1,5 @@
 :not(div):not(p):nth-child(2n) :not(div):not(p):nth-child(3n) {
    background-image: url("https://github.com/bradeneast/ultimate-cage/raw/master/nc.png");
    background-repeat: no-repeat;
+   background-size: contain;
 }
